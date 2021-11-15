@@ -26,7 +26,7 @@ npm run build
 ![alt text](https://raw.githubusercontent.com/wroetoshaw/Mask-3d/main/static/demo/Screenshot%20(589).png)
 
 ## Demo 3
-![alt text](https://raw.githubusercontent.com/wroetoshaw/Mask-3d/main/static/demo/Screenshot%20(580).png)
+![alt text](https://raw.githubusercontent.com/wroetoshaw/Mask-3d/main/static/demo/Screenshot%20(590).png)
 
 ## Demo 4
 ![alt text](https://raw.githubusercontent.com/wroetoshaw/Mask-3d/main/static/demo/Screenshot%20(591).png)
